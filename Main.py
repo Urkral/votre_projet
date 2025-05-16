@@ -11,3 +11,13 @@ print("Je suis sur la branche Main")
 print("Je suis sur la branche Main")
 print("Je suis sur la branche Main")
 print("Je suis sur la branche Main")
+
+
+#Donc si l'un de vos collègues travail ici sans vous prévenir, il va faire un commit et un push
+#Vous allez ensuite le merge dans votre branche et créer un merge conflict
+
+print("Je suis sur la branche Personnage")
+print("Je suis sur la branche Personnage")
+print("Je suis sur la branche Personnage")
+print("Je suis sur la branche Personnage")
+print("Je suis sur la branche Personnage")
